@@ -1,0 +1,12 @@
+:root {
+    --cream: #EDEEC0;
+    --smoky-black: #111004;
+    --reseda-green: #7C9082;
+    --sage: #A7A284;
+    --sage-light: #D0C88E;
+
+    --font-color: var(--smoky-black);
+    --main-bg-color: var(--cream);
+    --header-bg-color: var(--sage-light);
+    --footer-bg-color: var(--sage);
+}
